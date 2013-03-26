@@ -1,0 +1,16 @@
+*.pyc
+.svn
+*.log
+*~
+*.swp
+.project
+.pydevproject
+.ropeproject
+.buildinfo
+doctrees
+.idea
+.DS_Store
+.coverage
+dist
+build
+*.db
