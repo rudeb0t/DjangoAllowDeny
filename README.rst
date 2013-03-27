@@ -12,7 +12,7 @@ Installation
 
 The quickest way to install is via `pip`_ from within a `virtualenv`_.::
 
-    pip install https://github.com/rudeb0t/DjangoAllowDeny/master.zip#egg=django-allowdeny
+    pip install https://github.com/rudeb0t/DjangoAllowDeny/archive/master.zip#egg=django-allowdeny
 
 Alternatively, you can opt to use an "editable" installation::
 
