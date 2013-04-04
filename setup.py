@@ -15,5 +15,6 @@ setup(
     },
     url='https://github.com/rudeb0t/DjangoAllowDeny',
     license='LICENSE.txt',
-    description=open('README.rst').read(),
+    description='Simple allow/deny access control for Django projects.',
+    long_description=open('README.rst').read(),
 )
